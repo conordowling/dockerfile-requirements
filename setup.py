@@ -11,7 +11,7 @@ setup(
     url='https://github.com/hchasestevens/dockerfile-requirements',
     license='MIT',
     install_requires=[
-        'gitpython>=3.0.2',
+        'gitpython>=3.1.0',
         'jinja2>=2.10.1',
     ],
     entry_points={
